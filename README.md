@@ -126,4 +126,6 @@ Use verified .onion addresses.
 Reviews are key to safer choices. Use this wiki for information, exercise caution, and practice all security measures. Remember that engaging with these markets may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
 
-Update:  14.07.2025
+
+
+Update:  18.07.2025 15:07:20 url is now accessible and responsive
