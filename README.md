@@ -128,4 +128,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  18.07.2025 15:07:20 url is now accessible and responsive
+
+
+Update: Repaired broken links in installation guide
