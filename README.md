@@ -130,4 +130,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Repaired broken links in installation guide
+
+
+Update:  24.07.2025 url is back online and clickable
